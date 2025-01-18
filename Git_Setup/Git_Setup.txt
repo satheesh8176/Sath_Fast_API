@@ -1,0 +1,16 @@
+git init --- initializing the git with local setup. This create the .git folder in your local folder
+
+git add --all --add all the files to local .git folder
+
+git commit -m "First commit for Python API projects" --- This one is commit the setup
+
+
+git branch -M main  -- Creating the Main branch 
+
+git remote add origin https://github.com/satheesh8176/Sath_Fast_API.git -- adding local git reference to git hub
+
+git push -u origin main -- push all the local git setup to git hub 
+
+
+Before that you need to have to Git Hub account to push the setup from your local to git hub
+
